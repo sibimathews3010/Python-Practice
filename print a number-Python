@@ -1,0 +1,3 @@
+#print a number
+num=int(input("number:"))
+print("number is ",num)
