@@ -1,0 +1,4 @@
+# area of rectagle
+n=int(input("Breadth:"))
+k=int(input("length"))
+print("Area of rectabgle with breadth",n,"and length",k,"=",n*k)
